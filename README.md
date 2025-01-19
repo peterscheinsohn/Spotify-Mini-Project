@@ -1,2 +1,1 @@
-# Spotify-Mini-Project
-The  idea of the project was to summarise data  for the company performance in three main directions: growth, revenue and operational costs. 
+The  idea of the project was to summarise data  for the company performance in three main directions: growth, revenue and operational costs. Main aim was to provide information which will help high executives (Board of Directors namely from  Marketing and Sales,  Finance and Product Management and Operation and Logistics) to perform correct strategic decisions, which can help to improve company performance in the next six years.
